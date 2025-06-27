@@ -1,4 +1,4 @@
-Gerador de Números Aleatórios 🎲
+<h1>Gerador de Números Aleatórios </h1>
 Este é um aplicativo web que permite gerar números aleatórios com base na quantidade definida pelo usuário. O aplicativo exibe uma análise dos números gerados, incluindo a média, o maior e o menor número, além de uma contagem de pares e ímpares.
 
 Funcionalidades
